@@ -1,4 +1,4 @@
-export default function Post(props) {
+export default function Fic(props) {
     return (
         <>
         
